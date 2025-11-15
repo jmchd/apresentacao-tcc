@@ -4,7 +4,7 @@ Apresentação interativa para TCC sobre "A Importância da Contabilidade Gerenc
 
 ## 🚀 Como visualizar
 
-Acesse: [https://SEU-USUARIO.github.io/apresentacao-tcc](https://SEU-USUARIO.github.io/apresentacao-tcc)
+Acesse: https://jmchd.github.io/apresentacao-tcc
 
 Ou rode localmente abrindo o arquivo `index.html` no navegador.
 
